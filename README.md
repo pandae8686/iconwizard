@@ -17,11 +17,11 @@ in your webpages.
 
 # Installation
 
-`NPM install iconwizard --save`
+`npm install iconwizard --save`
 
 # How to use?
 
-Please add the reference of the all.css file in your root .json file. For example, if you are using Angular as your frontend framework, copy the reference of all.min.css file to your angular.json file under styles namely
+Please add the reference of the all.min.css file in your root .json file. For example, if you are using Angular as your frontend framework, copy the reference of all.min.css file to your angular.json file under styles namely
 
 ```
 "styles": [
