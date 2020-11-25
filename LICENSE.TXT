@@ -1,0 +1,17 @@
+Icon Wizard Free License
+-------------------------
+
+Icon Wizard is free, open source and user friendly. You can use it for 
+commercial projects, open source projects, and for almost everything you want.
+
+Full Icon Wizard Free license: 
+
+# Icons: CC BY 3.0 License (https://creativecommons.org/licenses/by/3.0/)
+In the Icon Wizard Free download, the CC by 3.0 license applies to all icons
+packaged as SVG file type.
+
+# Fonts: SIL OFL 1.1 License (https://scripts.sil.org/OFL)
+In the Icon Wizard Free download, the SIL OFL license applies to all icons packaged as web.
+
+
+
