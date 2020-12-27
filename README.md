@@ -25,7 +25,7 @@ Please add the reference of the all.min.css file in your root .json file. For ex
 
 ```
 "styles": [
-"./node_modules/@iconwizard/css/all.min.css"
+"./node_modules/iconwizard/css/all.min.css"
 ]
 ```
 
