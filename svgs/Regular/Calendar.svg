@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="367" height="291" viewBox="0 0 367 291">
+  <g>
+    <rect x="4" y="37.757" width="359" height="249.243" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width="8"/>
+    <rect x="102.438" y="37.924" width="165.125" height="254.277" transform="translate(350.063 -19.938) rotate(90)" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width="8"/>
+    <g>
+      <rect x="84.5" y="112.688" width="28" height="29" stroke="#000" stroke-miterlimit="10"/>
+      <rect x="127.5" y="112.438" width="28" height="29" stroke="#000" stroke-miterlimit="10"/>
+      <rect x="215.5" y="112.438" width="28" height="29" stroke="#000" stroke-miterlimit="10"/>
+      <rect x="257.5" y="112.438" width="28" height="29" stroke="#000" stroke-miterlimit="10"/>
+      <rect x="172.5" y="112.438" width="28" height="29" stroke="#000" stroke-miterlimit="10"/>
+      <rect x="84.5" y="150.688" width="28" height="29" stroke="#000" stroke-miterlimit="10"/>
+      <rect x="127.5" y="150.438" width="28" height="29" stroke="#000" stroke-miterlimit="10"/>
+      <rect x="215.5" y="150.438" width="28" height="29" stroke="#000" stroke-miterlimit="10"/>
+      <rect x="257.5" y="150.438" width="28" height="29" stroke="#000" stroke-miterlimit="10"/>
+      <rect x="172.5" y="150.438" width="28" height="29" stroke="#000" stroke-miterlimit="10"/>
+      <rect x="84.5" y="188.688" width="28" height="29" stroke="#000" stroke-miterlimit="10"/>
+      <rect x="127.5" y="188.438" width="28" height="29" stroke="#000" stroke-miterlimit="10"/>
+      <rect x="215.5" y="188.438" width="28" height="29" stroke="#000" stroke-miterlimit="10"/>
+      <rect x="257.5" y="188.438" width="28" height="29" stroke="#000" stroke-miterlimit="10"/>
+      <rect x="172.5" y="188.438" width="28" height="29" stroke="#000" stroke-miterlimit="10"/>
+    </g>
+    <rect x="244" y="0.5" width="54" height="60" stroke="#000" stroke-miterlimit="10"/>
+    <rect x="72" y="0.5" width="54" height="60" stroke="#000" stroke-miterlimit="10"/>
+  </g>
+</svg>

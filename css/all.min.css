@@ -1,0 +1,313 @@
+.iw,
+.iwb,
+.iwd,
+.iwk,
+.iwl,
+.iwr,
+.iws {
+	font-smooth: grayscale;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	display: inline-block;
+	text-rendering: auto;
+	line-height: 1;
+	font-style: normal;
+	font-variant: normal
+}
+
+.iw-lg {
+	font-size: 1.222em;
+	line-height: .72em;
+	vertical-align: -.065em
+}
+
+.iw-xs {
+	font-size: .74em
+}
+
+.iw-sm {
+	font-size: .872em
+}
+
+.iw-1x {
+	font-size: 1em
+}
+
+.iw-2x {
+	font-size: 2em
+}
+
+.iw-3x {
+	font-size: 3em
+}
+
+.iw-4x {
+	font-size: 4em
+}
+
+.iw-5x {
+	font-size: 5em
+}
+
+.iw-6x {
+	font-size: 6em
+}
+
+.iw-7x {
+	font-size: 7em
+}
+
+.iw-8x {
+	font-size: 8em
+}
+
+.iw-9x {
+	font-size: 9em
+}
+
+.iw-10x {
+	font-size: 10em
+}
+
+.iw-ifw {
+	text-align: center;
+	width: 1.24em
+}
+
+.iw-ul {
+	list-style-type: none;
+	margin-left: 2.5em;
+	padding-left: 0
+}
+
+.iw-ul>li {
+	position: relative
+}
+
+.iw-li {
+	left: -2em;
+	position: absolute;
+	text-align: center;
+	width: 2em;
+	line-height: inherit
+}
+
+.iw-border {
+	border: solid .08em #eee;
+	border-radius: .1em;
+	padding: .2em .25em .15em
+}
+
+.iw-pull-left {
+	float: left
+}
+
+.iw-pull-right {
+	float: right
+}
+
+.iw.iw-pull-left,
+.iwb.iw-pull-left,
+.iwl.iw-pull-left,
+.iwr.iw-pull-left,
+.iws.iw-pull-left {
+	margin-right: .3em
+}
+
+.iw.iw-pull-right,
+.iwb.iw-pull-right,
+.iwl.iw-pull-right,
+.iwr.iw-pull-right,
+.iws.iw-pull-right {
+	margin-left: .3em
+}
+
+.iw-spin {
+	-webkit-animation: iw-spin 2s infinite linear;
+	animation: iw-spin 2s infinite linear
+}
+
+.iw-pulse {
+	-webkit-animation: iw-spin 1s infinite steps(8);
+	animation: iw-spin 1s infinite steps(8)
+}
+
+@-webkit-keyframes iw-spin {
+	0% {
+		-webkit-transform: rotate(0);
+		transform: rotate(0)
+	}
+	100% {
+		-webkit-transform: rotate(360deg);
+		transform: rotate(360deg)
+	}
+}
+
+@keyframes iw-spin {
+	0% {
+		-webkit-transform: rotate(0);
+		transform: rotate(0)
+	}
+	100% {
+		-webkit-transform: rotate(360deg);
+		transform: rotate(360deg)
+	}
+}
+
+.iw-rotate-90 {
+	-webkit-transform: rotate(90deg);
+	transform: rotate(90deg)
+}
+
+.iw-rotate-180 {
+	-webkit-transform: rotate(180deg);
+	transform: rotate(180deg)
+}
+
+.iw-rotate-270 {
+	-webkit-transform: rotate(270deg);
+	transform: rotate(270deg)
+}
+
+.iw-flip-horizontal {
+	-webkit-transform: scale(-1, 1);
+	transform: scale(-1, 1)
+}
+
+.iw-flip-vertical {
+	-webkit-transform: scale(1, -1);
+	transform: scale(1, -1)
+}
+
+.iw-flip-both,
+.iw-flip-horizontal.iw-flip-vertical {
+	-webkit-transform: scale(-1, -1);
+	transform: scale(-1, -1)
+}
+
+:root .iw-flip-both,
+:root .iw-flip-horizontal,
+:root .iw-flip-vertical,
+:root .iw-rotate-180,
+:root .iw-rotate-270,
+:root .iw-rotate-90 {
+	-webkit-filter: none;
+	filter: none
+}
+
+.iw-stack {
+	display: inline-block;
+	height: 2em;
+	line-height: 2em;
+	position: relative;
+	vertical-align: middle;
+	width: 2.5em
+}
+
+.iw-stack-1x,
+.iw-stack-2x {
+	left: 0;
+	position: absolute;
+	text-align: center;
+	width: 100%
+}
+
+.iw-stack-1x {
+	line-height: inherit
+}
+
+.iw-stack-2x {
+	font-size: 2em
+}
+
+.iw-inverse {
+	color: #fff
+}
+
+
+.iw-calendar:before {
+	content: "\xe900"
+}
+
+
+.iw-camera:before {
+	content: "\xe865"
+}
+
+.iw-cog:before {
+	content: "\xe866"
+}
+
+
+.iw-comment-dots:before {
+	content: "\xe867"
+}
+
+
+.iw-love:before {
+	content: "\xe868"
+}
+
+
+.iw-mobile:before {
+	content: "\xe869"
+}
+
+
+.iw-shark:before {
+	content: "\xe86a"
+}
+
+.iw-user:before {
+	content: "\xe86b"
+}
+
+
+
+.sr-only {
+	border: 0;
+	clip: rect(0, 0, 0, 0);
+	height: 1px;
+	margin: -1px;
+	overflow: hidden;
+	padding: 0;
+	position: absolute;
+	width: 1px
+}
+
+.sr-only-focusable:active,
+.sr-only-focusable:focus {
+	clip: auto;
+	height: auto;
+	margin: 0;
+	overflow: visible;
+	position: static;
+	width: auto
+}
+
+@font-face {
+	font-family: 'Icon Wizard 1 Free Solid';
+	font-style: normal;
+	font-weight: 900;
+	font-display: block;
+	src: url(../webfonts/iw-solid-900.eot);
+	src: url(../webfonts/iw-solid-900.woff2) format("woff2"), url(../webfonts/iw-solid-900.woff) format("woff"), url(../webfonts/iw-solid-900.ttf) format("truetype"), url(../webfonts/iw-solid-900.svg) format("svg")
+}
+
+[class*=" iw-"],
+[class^=iw-] {
+	font-family: 'Icon Wizard 1 Free Solid'!important;
+	font-style: normal;
+	font-weight: 400;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale
+}
+
+.iw,
+.iws {
+	font-family: 'Icon Wizard 1 Free Solid';
+	font-weight: 900
+}
